@@ -33,7 +33,7 @@ using namespace std;
 #define ford(i, n) for (int i = (int)(n)-1; i >= 0; --i)
 #define fore(i, a, b) for (int i = (int)(a); i <= (int)(b); ++i)
 
-isDiverse(string s){
+bool isDiverse(string s){
 
     sort(all(s));
 
