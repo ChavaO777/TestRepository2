@@ -52,6 +52,7 @@ int main(){
 
     int tc;
     S(tc);
+    getchar();
 
     string s;
 
